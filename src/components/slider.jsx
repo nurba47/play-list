@@ -6,7 +6,7 @@ class Slider extends React.Component {
             <section className="hero-area">
                 <div className="hero-slides owl-carousel">
                     <div className="single-hero-slide d-flex align-items-center justify-content-center">
-                        <div className="slide-img bg-img" style= {{backgroundColor: 'fff'}}> </div>
+                        <div className="slide-img bg-img" style= {{backgroundImage: 'url(./images/bg-img/bg-1.jpg)'}}> </div>
 
                         <div className="container">
                             <div className="row">

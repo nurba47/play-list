@@ -8,7 +8,7 @@ class Header extends React.Component{
                     <div className="classy-nav-container breakpoint-off">
                         <div className="container">
                             <nav className="classy-navbar justify-content-between" id="oneMusicNav">
-                                <a href="#!" className="nav-brand"><img src="img/core-img/logo.png" alt=""/></a>
+                                <a href="#!" className="nav-brand"><img src="img/core-img/logo.png" alt="#"/>One Music</a>
                                 <div className="classy-navbar-toggler">
                                     <span className="navbarToggler">
                                         <span> </span>

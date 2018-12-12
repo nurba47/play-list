@@ -84,7 +84,7 @@ class Albums extends React.Component {
                                 <div className="single-album">
                                     <img src="img/bg-img/a7.jpg" alt=""/>
                                         <div className="album-info">
-                                            <a href="#">
+                                            <a href="!#">
                                                 <h5>Beyonce</h5>
                                             </a>
                                             <p>Songs</p>
