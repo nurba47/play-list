@@ -1,128 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1126d6bc-4295-4fce-b1a9-62446dddce70" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/audio/dummy-audio.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/audioplayer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/classy-nav.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/one-music-icon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/classy.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/classy.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/classy.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/classy.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/active.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/bootstrap/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/bootstrap/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery/jquery-2.2.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/materialize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/materialize.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/plugins/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/_fonts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/_mixin.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/_responsive.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/_theme_color.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/slider.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/a1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/a10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/a11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/a12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/a2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/a3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/a4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/a5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/a6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/a7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/a8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/a9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/add.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/add2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/add3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/b1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/b2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/b3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/b4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/bg-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/bg-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/bg-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/bg-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/blog1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/blog2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/blog3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/breadcumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/breadcumb2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/breadcumb3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/e1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/e2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/e3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/e4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/e5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/e6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/e7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/e8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/e9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/fa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/pa1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/pa2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/pa3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/pa4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/pa5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/pa6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/pa7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/s1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/s2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/s3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/s4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/t1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/wt1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/wt10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/wt11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/wt12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/wt2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/wt3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/wt4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/wt5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/wt6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/wt7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/wt8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg-img/wt9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scenes/landing.jsx" afterDir="false" />
+    <list default="true" id="1126d6bc-4295-4fce-b1a9-62446dddce70" name="Default Changelist" comment="Add">
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/a1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/a10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/a11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/a12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/a2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/a3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/a4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/a5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/a6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/a7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/a8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/a9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/add.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/add2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/add3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/b1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/b2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/b3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/b4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/bg-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/bg-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/bg-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/bg-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/blog1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/blog2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/blog3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/breadcumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/breadcumb2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/breadcumb3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/e1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/e2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/e3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/e4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/e5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/e6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/e7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/e8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/e9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/fa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/pa1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/pa2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/pa3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/pa4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/pa5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/pa6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/pa7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/s2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/s3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/s4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/t1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/wt1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/wt10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/wt11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/wt12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/wt2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/wt3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/wt4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/wt5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/wt6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/wt7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/wt8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-img/wt9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slider.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/slider.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/slider.jsx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -135,83 +83,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scenes/landing.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/routes/index.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/slider.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="45" column="10" lean-forward="true" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+            <state relative-caret-position="-69">
+              <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/header.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/components/slider.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+        <entry file="file://$PROJECT_DIR$/src/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="15" column="55" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="56" />
+            <state relative-caret-position="38226">
+              <caret line="1662" column="51" selection-start-line="1662" selection-start-column="51" selection-end-line="1662" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -237,19 +127,19 @@
         <option value="$PROJECT_DIR$/src/scenes/scss/style.scss" />
         <option value="$PROJECT_DIR$/src/scenes/css/scss/style.scss" />
         <option value="$PROJECT_DIR$/src/App.jsx" />
-        <option value="$PROJECT_DIR$/src/components/slider.jsx" />
         <option value="$PROJECT_DIR$/src/components/header.jsx" />
         <option value="$PROJECT_DIR$/src/components/slider1.jsx" />
         <option value="$PROJECT_DIR$/src/scenes/landing.jsx" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/components/slider.jsx" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="926" />
-    <option name="y" value="-13" />
-    <option name="width" value="987" />
-    <option name="height" value="1029" />
+    <option name="x" value="886" />
+    <option name="y" value="-14" />
+    <option name="width" value="1035" />
+    <option name="height" value="1045" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -263,23 +153,6 @@
             <path>
               <item name="play-list" type="b2602c69:ProjectViewProjectNode" />
               <item name="play-list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="play-list" type="b2602c69:ProjectViewProjectNode" />
-              <item name="play-list" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="play-list" type="b2602c69:ProjectViewProjectNode" />
-              <item name="play-list" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="play-list" type="b2602c69:ProjectViewProjectNode" />
-              <item name="play-list" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="play-list" type="b2602c69:ProjectViewProjectNode" />
@@ -301,7 +174,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lifestyle_v1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../one-music" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -322,11 +195,11 @@
       <recent name="C:\Users\User\WebstormProjects\play-list\src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\play-list\public" />
+      <recent name="C:\Users\User\WebstormProjects\play-list\src\components" />
       <recent name="C:\Users\User\WebstormProjects\play-list\public\js" />
       <recent name="C:\Users\User\WebstormProjects\play-list\public\fonts" />
       <recent name="C:\Users\User\WebstormProjects\play-list\public\css" />
-      <recent name="C:\Users\User\WebstormProjects\play-list\src\scenes" />
-      <recent name="C:\Users\User\WebstormProjects\play-list\public\audio" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -366,24 +239,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544534405061</updated>
-      <workItem from="1544534406874" duration="21206000" />
+      <workItem from="1544534406874" duration="26337000" />
     </task>
+    <task id="LOCAL-00001" summary="Add">
+      <created>1544609011874</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544609011874</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add">
+      <created>1544609742247</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544609742247</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21206000" />
+    <option name="totallyTimeSpent" value="26337000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10839392" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21348314" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.31470588" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.31470588" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
@@ -419,6 +306,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/public/css/animate.css">
@@ -476,13 +367,6 @@
       </provider>
       <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/footer.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38479">
@@ -492,13 +376,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scenes/langing.jsx">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="1662" column="51" selection-start-line="1662" selection-start-column="51" selection-end-line="1662" selection-end-column="51" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scenes/index.css">
       <provider selected="true" editor-type-id="text-editor" />
@@ -536,20 +413,6 @@
     <entry file="file://$PROJECT_DIR$/src/image/bg-img/bg-2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/header.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/js/materialize.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -573,13 +436,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/slider.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="45" column="10" lean-forward="true" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/routes/index.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -597,10 +453,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/header.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="15" column="55" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="56" />
+        <state relative-caret-position="-199">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/footer.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/slider.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38226">
+          <caret line="1662" column="51" selection-start-line="1662" selection-start-column="51" selection-end-line="1662" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/slider.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69">
+          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>

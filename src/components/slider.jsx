@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 class Slider extends React.Component{
     render() {
@@ -8,7 +8,7 @@ class Slider extends React.Component{
 
                     <div className="single-hero-slide d-flex align-items-center justify-content-center">
 
-                        <div className="slide-img bg-img" style={{ backgroundImage: 'url(/bg-img/images/bg-1.jpg)'}}> </div>
+                        <div className="slide-img bg-img" style={{ backgroundImage: 'url(/images/bg-img/bg-1.jpg)', backgroundAttachment:'fixed' }}> </div>
 
                         <div className="container">
                             <div className="row">
@@ -27,7 +27,7 @@ class Slider extends React.Component{
 
                     <div className="single-hero-slide d-flex align-items-center justify-content-center">
 
-                        <div className="slide-img bg-img" style={{backgroundImage: 'url:(image/bg-img/bg-2.jpg)'}}> </div>
+                        <div className="slide-img bg-img" style={{backgroundImage: 'url(image/bg-img/bg-2.jpg)', backgroundAttachment:'fixed'}}> </div>
 
                         <div className="container">
                             <div className="row">
