@@ -1,5 +1,10 @@
 import React from 'react'
 
+import B1 from '../image/bg-img/b1.jpg'
+import B2 from '../image/bg-img/b2.jpg'
+import B3 from '../image/bg-img/b3.jpg'
+import B4 from '../image/bg-img/b4.jpg'
+
 class Buy extends React.Component{
     render() {
         return (
@@ -17,7 +22,7 @@ class Buy extends React.Component{
                         <div className="col-12 col-sm-6 col-md-4 col-lg-2">
                             <div className="single-album-area wow fadeInUp" data-wow-delay="100ms">
                                 <div className="album-thumb">
-                                    <img src="img/bg-img/b1.jpg" alt=""/>
+                                    <img src={B1} alt="#"/>
                                         <div className="album-price">
                                             <p>$0.90</p>
                                         </div>
@@ -38,7 +43,7 @@ class Buy extends React.Component{
                         <div className="col-12 col-sm-6 col-md-4 col-lg-2">
                             <div className="single-album-area wow fadeInUp" data-wow-delay="200ms">
                                 <div className="album-thumb">
-                                    <img src="img/bg-img/b2.jpg" alt=""/>
+                                    <img src={B2} alt="#"/>
                                 </div>
                                 <div className="album-info">
                                     <a href="!#">
@@ -51,7 +56,7 @@ class Buy extends React.Component{
                         <div className="col-12 col-sm-6 col-md-4 col-lg-2">
                             <div className="single-album-area wow fadeInUp" data-wow-delay="300ms">
                                 <div className="album-thumb">
-                                    <img src="img/bg-img/b3.jpg" alt=""/>
+                                    <img src={B3} alt=""/>
                                 </div>
                                 <div className="album-info">
                                     <a href="!#">
@@ -64,7 +69,7 @@ class Buy extends React.Component{
                         <div className="col-12 col-sm-6 col-md-4 col-lg-2">
                             <div className="single-album-area wow fadeInUp" data-wow-delay="400ms">
                                 <div className="album-thumb">
-                                    <img src="img/bg-img/b4.jpg" alt=""/>
+                                    <img src={B4} alt=""/>
                                 </div>
                                 <div className="album-info">
                                     <a href="!#">
@@ -77,7 +82,7 @@ class Buy extends React.Component{
                         <div className="col-12 col-sm-6 col-md-4 col-lg-2">
                             <div className="single-album-area wow fadeInUp" data-wow-delay="500ms">
                                 <div className="album-thumb">
-                                    <img src="img/bg-img/b1.jpg" alt=""/>
+                                    <img src={B1} alt=""/>
 
                                         <div className="album-price">
                                             <p>$0.90</p>
@@ -100,7 +105,7 @@ class Buy extends React.Component{
                         <div className="col-12 col-sm-6 col-md-4 col-lg-2">
                             <div className="single-album-area wow fadeInUp" data-wow-delay="600ms">
                                 <div className="album-thumb">
-                                    <img src="img/bg-img/b2.jpg" alt=""/>
+                                    <img src={B2} alt=""/>
                                 </div>
                                 <div className="album-info">
                                     <a href="!#">
@@ -115,7 +120,7 @@ class Buy extends React.Component{
                         <div className="col-12 col-sm-6 col-md-4 col-lg-2">
                             <div className="single-album-area wow fadeInUp" data-wow-delay="100ms">
                                 <div className="album-thumb">
-                                    <img src="img/bg-img/b3.jpg" alt=""/>
+                                    <img src={B3} alt=""/>
                                 </div>
                                 <div className="album-info">
                                     <a href="!#">
@@ -128,7 +133,7 @@ class Buy extends React.Component{
                         <div className="col-12 col-sm-6 col-md-4 col-lg-2">
                             <div className="single-album-area wow fadeInUp" data-wow-delay="200ms">
                                 <div className="album-thumb">
-                                    <img src="img/bg-img/b4.jpg" alt=""/>
+                                    <img src={B4} alt=""/>
                                 </div>
                                 <div className="album-info">
                                     <a href="#">
@@ -142,7 +147,7 @@ class Buy extends React.Component{
                         <div className="col-12 col-sm-6 col-md-4 col-lg-2">
                             <div className="single-album-area wow fadeInUp" data-wow-delay="300ms">
                                 <div className="album-thumb">
-                                    <img src="img/bg-img/b1.jpg" alt=""/>
+                                    <img src={B1} alt=""/>
                                         <div className="album-price">
                                             <p>$0.90</p>
                                         </div>
@@ -166,7 +171,7 @@ class Buy extends React.Component{
                         <div className="col-12 col-sm-6 col-md-4 col-lg-2">
                             <div className="single-album-area wow fadeInUp" data-wow-delay="400ms">
                                 <div className="album-thumb">
-                                    <img src="img/bg-img/b2.jpg" alt=""/>
+                                    <img src={B2} alt=""/>
                                 </div>
                                 <div className="album-info">
                                     <a href="!#">
@@ -179,7 +184,7 @@ class Buy extends React.Component{
                         <div className="col-12 col-sm-6 col-md-4 col-lg-2">
                             <div className="single-album-area wow fadeInUp" data-wow-delay="500ms">
                                 <div className="album-thumb">
-                                    <img src="img/bg-img/b3.jpg" alt=""/>
+                                    <img src={B3} alt=""/>
                                 </div>
                                 <div className="album-info">
                                     <a href="!#">
@@ -194,7 +199,7 @@ class Buy extends React.Component{
                         <div className="col-12 col-sm-6 col-md-4 col-lg-2">
                             <div className="single-album-area wow fadeInUp" data-wow-delay="600ms">
                                 <div className="album-thumb">
-                                    <img src="./image/bg-img/b4.jpg" alt="This"/>
+                                    <img src={B4} alt="This"/>
                                 </div>
                                 <div className="album-info">
                                     <a href="!#">

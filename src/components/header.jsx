@@ -1,4 +1,5 @@
 import React from 'react';
+import Logo from './logo.png'
 
 class Header extends React.Component{
     render() {
@@ -8,7 +9,7 @@ class Header extends React.Component{
                     <div className="classy-nav-container breakpoint-off">
                         <div className="container">
                             <nav className="classy-navbar justify-content-between" id="oneMusicNav">
-                                <a href="#!" className="nav-brand"><img src="img/core-img/logo.png" alt="#"/>One Music</a>
+                                <a href="#!" className="nav-brand"><img src={Logo} alt="Logo"/></a>
                                 <div className="classy-navbar-toggler">
                                     <span className="navbarToggler">
                                         <span> </span>
