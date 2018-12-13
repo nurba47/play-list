@@ -26,8 +26,8 @@ class Header extends React.Component{
                                     </div>
                                     <div className="classynav">
                                         <ul>
-                                            <li><a href="#!">Home</a></li>
-                                            <li><a href="#!">Albums</a></li>
+                                            <li><a href="../scenes/landing.jsx">Home</a></li>
+                                            <li><a href="../scenes/albums_new.jsx">Albums</a></li>
                                             <li><a href="#!">Pages</a>
                                                 <ul className="dropdown">
                                                     <li><a href="#!">Home</a></li>
