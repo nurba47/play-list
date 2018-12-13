@@ -2,12 +2,14 @@ import React from 'react'
 import { Route, Switch } from "react-router";
 
 import DefaultScene from "../scenes/landing";
-import Albums from "../scenes/albums_new";
+import DefaultAlbums from "../scenes/albums_new";
+import DefaultConcert from "../scenes/concert";
 
 const DefaultRoutes = () => (
     <Switch>
         <Route exact path="/" component={DefaultScene} />
-        <Route exact="./" component={Albums}/>
+        <Route exact="./" component={DefaultAlbums}/>
+        <Route exact="./" component={DefaultConcert}/>
     </Switch>
 
 );

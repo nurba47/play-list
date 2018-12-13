@@ -56,7 +56,7 @@ class Header extends React.Component{
                                                     </li>
                                                 </ul>
                                             </li>
-                                            <li><a href="#!">Events</a></li>
+                                            <li><a href="../scenes/concert.jsx">Events</a></li>
                                             <li><a href="#!">News</a></li>
                                             <li><a href="#!">Contact</a></li>
                                         </ul>
