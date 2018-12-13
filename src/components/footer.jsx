@@ -1,4 +1,5 @@
 import React from 'react';
+import Logo from './logo.png'
 
 class Footer extends React.Component{
     render() {
@@ -6,12 +7,13 @@ class Footer extends React.Component{
             <footer className="footer-area">
                 <div className="container">
                     <div className="row d-flex flex-wrap align-items-center">
-                        <div className="row">
-                            <div className="col-md-12 text-center">
-                                <p>
-                                    Copyright &copy;{new Date().getFullYear()} All rights reserved | This template is made with <i className="icon-heart" aria-hidden="true"/> by <a href="https://nurba47@gmail.com">KNA</a>
-                                </p>
-                            </div>
+                        <div className="col-12 col-md-6">
+                            <a href="!#"><img src={Logo} alt="#!"/> </a>
+                            <p className="copywrite-text"> <a href="!#">
+                                Copyright &copy; </a>
+                                <script>document.write(new Date().getFullYear());</script>
+                                All rights reserved | This template is made with <i className="fa fa-heart-o" aria-hidden="true"> </i> by <a href="https://nurba47.github.io/index.html">KNA studio</a>
+                            </p>
                         </div>
 
                         <div className="col-12 col-md-6">

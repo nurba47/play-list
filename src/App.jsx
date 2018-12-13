@@ -11,7 +11,7 @@ class App extends React.Component{
             <Router>
                 <div>
                     <Header/>
-                    <DefaultRoutes/>
+                        <DefaultRoutes/>
                     <Footer/>
                 </div>
             </Router>
